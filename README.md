@@ -84,23 +84,3 @@ Output:
 Please refer
 [here](https://github.com/phluentmed/event-scheduler/blob/master/example/transactions.py)
 for the example. 
-
-### Contact
-Please email phluentmed@gmail.com or open an issue if you need any help using
-the module, have any questions, or even have some feature suggestions.
-
-<ins>Recommended Email format: </ins>
-
-Subject: EventScheduler - [Issue]
-
-Steps to reproduce: (Please include code snippets or stack trace where possible)
-
-Device used:
-
-Platform:
-
-Actual result:
-
-Expected result:
-
-Comments:
